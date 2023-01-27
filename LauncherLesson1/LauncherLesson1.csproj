@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="VievModel\" />
+    <Folder Include="Viev\Res\Background\" />
+    <Folder Include="Viev\Res\Icons\" />
+    <Folder Include="Viev\Res\TopBackground\" />
+  </ItemGroup>
+
+</Project>
